@@ -1,5 +1,3 @@
-# ConditionalStatementsMeters
-
 Ask the user to input a number for meter conversion.
 
 The user types the appropriate conversion unit they would like
