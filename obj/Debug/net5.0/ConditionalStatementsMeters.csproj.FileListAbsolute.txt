@@ -1,0 +1,15 @@
+C:\Users\Lauren\source\repos\CircleConditionalStatements\bin\Debug\net5.0\ConditionalStatementsMeters.exe
+C:\Users\Lauren\source\repos\CircleConditionalStatements\bin\Debug\net5.0\ConditionalStatementsMeters.deps.json
+C:\Users\Lauren\source\repos\CircleConditionalStatements\bin\Debug\net5.0\ConditionalStatementsMeters.runtimeconfig.json
+C:\Users\Lauren\source\repos\CircleConditionalStatements\bin\Debug\net5.0\ConditionalStatementsMeters.runtimeconfig.dev.json
+C:\Users\Lauren\source\repos\CircleConditionalStatements\bin\Debug\net5.0\ConditionalStatementsMeters.dll
+C:\Users\Lauren\source\repos\CircleConditionalStatements\bin\Debug\net5.0\ref\ConditionalStatementsMeters.dll
+C:\Users\Lauren\source\repos\CircleConditionalStatements\bin\Debug\net5.0\ConditionalStatementsMeters.pdb
+C:\Users\Lauren\source\repos\CircleConditionalStatements\obj\Debug\net5.0\ConditionalStatementsMeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lauren\source\repos\CircleConditionalStatements\obj\Debug\net5.0\ConditionalStatementsMeters.AssemblyInfoInputs.cache
+C:\Users\Lauren\source\repos\CircleConditionalStatements\obj\Debug\net5.0\ConditionalStatementsMeters.AssemblyInfo.cs
+C:\Users\Lauren\source\repos\CircleConditionalStatements\obj\Debug\net5.0\ConditionalStatementsMeters.csproj.CoreCompileInputs.cache
+C:\Users\Lauren\source\repos\CircleConditionalStatements\obj\Debug\net5.0\ConditionalStatementsMeters.dll
+C:\Users\Lauren\source\repos\CircleConditionalStatements\obj\Debug\net5.0\ref\ConditionalStatementsMeters.dll
+C:\Users\Lauren\source\repos\CircleConditionalStatements\obj\Debug\net5.0\ConditionalStatementsMeters.pdb
+C:\Users\Lauren\source\repos\CircleConditionalStatements\obj\Debug\net5.0\ConditionalStatementsMeters.genruntimeconfig.cache
